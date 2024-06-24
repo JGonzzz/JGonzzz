@@ -8,9 +8,6 @@
   <a href="https://www.instagram.com/jgonzzxx/?igsh=MWxvZmxlZDBmZDQyaQ%3D%3D" target="_blank">
     <img src="https://i.pinimg.com/564x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" height="25" alt="IG logo" />
   </a>
-  <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
 </div>
 
 
