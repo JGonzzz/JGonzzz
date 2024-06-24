@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JGonzzz.JGonzzz&"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Jason González from Honduras<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning studying Informatics Engineering...<br>- ⚡ In my free time I like to play game and read some books</p>
 
 ###
 
